@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Experiment Design"
+  short_description: "Design rigorous research experiment plans"
+  default_prompt: "Use $research-experiment-design to draft a rigorous experiment plan for this research project."
